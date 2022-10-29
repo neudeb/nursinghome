@@ -22,27 +22,23 @@ The data dictionary is available [Here](https://data.cms.gov/sites/default/files
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 
-## Notebook Objectives
-<ol>
-<li> Data Investigation
-</li>
-<li> Memory Optimization
-</li>
-<li> Data Cleaning
-</li>
-<li> Data Processing
-</li>
-<li> Data Analytics at various levels
-    <ol>
-    <li> National Level Analysis
-    </li>
-    <li> State Level Analysis 
-    </li>
-    <li> County Level Analysis
-    </li>
-    </ol>
-</li>
-</ol>
+## Notebook Organisation
+1. Data Investigation
+    * Memory Optimization
+    * Data Cleaning
+2. Data Processing
+3. Data Analytics at various levels
+    * Facility Level Analysis
+        - Shortage Analysis
+    * State Level Analysis 
+        - Shortage Analysis
+    * City Level Analysis
+        - Shortage Analysis
+    * County Level Analysis
+        - Shortage Analysis
+    * Patient Level Analysis
+
+## Observations
 
 
 
