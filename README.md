@@ -30,19 +30,55 @@ The data dictionary is available [Here](https://data.cms.gov/sites/default/files
 3. Data Analytics at various levels
     * Facility Level Analysis
         - Shortage Analysis
-    * State Level Analysis 
-        - Shortage Analysis
     * City Level Analysis
         - Shortage Analysis
     * County Level Analysis
+        - Shortage Analysis
+    * State Level Analysis 
         - Shortage Analysis
     * Patient Level Analysis
 
 ## Observations
 
+### Facility Level
+
+#### Key Takeaways:
+
+1. From 2020 to 2022, there has been a gradual decrease in the number of unique facilities reporting their data.
+2. There has been a significant shortage of nursing staff and aides, with a much lower shortage of clinical and other staff members.
+3. A relatively low shortage of supplies, N95 masks, face masks, eye protection equipment, gowns, and gloves, implying that these critical items were restocked on a regular basis, resulting in effective care.
 
 
+### City Level
+
+#### Key Takeaways:
+
+1. Chicago, LA, Cincinnati, Houston, San Antonio were the top 5 states with the largest number of facilities.
+2. Almost equal levels of shortages noticed for all states for various staffs and aides
+3.  A relatively low shortage of supplies, N95 masks, face masks, eye protection equipment, gowns, and gloves, but in general these shortages were more than individual facility averages. 
 
 
+### County Level
+
+#### Key Takeaways:
+
+1. LA had the highest number of facilities with nearly double of that of the second place Cook County, IL.
+2. Equal amount of shortages of nursing staff, aides and other staff were noticed whereas a relatively lower amount of Clinical staff shortages were noticed
+3. A relatively moderately low shortage of supplies, N95 masks, face masks, eye protection equipment, gowns, and gloves, but in general these shortages were more than individual city averages. 
 
 
+### State Level
+
+#### Key Takeaways:
+
+1. Texas, California and Ohio were the top 3 states with the largest number of facilities
+2. Moderate shortages of staff and aides noticed when aggregated on state levels
+3. Significant amount of shortages of upplies, N95 masks, face masks, eye protection equipment, gowns, and gloves noticed at state levels
+
+
+### Individual Patient Level
+
+#### Key Takeaways:
+
+1. It was around the month of May-2020 that many facilities were unable to cope with the spread of Covid.
+2. It was also around that time, April-2020, that the percentage of confirmed deaths was at its highest.
