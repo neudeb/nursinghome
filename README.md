@@ -40,6 +40,17 @@ The data dictionary is available [Here](https://data.cms.gov/sites/default/files
 
 ## Observations
 
+### Memory Optimization:
+
+- In this notebook, we showed how to use data type assignment in Python based on data size to reduce the amount of latent memory used for processing.
+- We also noticed a massive 26% memory savings from 2.6 GB to 1.9 GB while doing so.
+- We also published a Medium [article](https://medium.com/@MLdebanjan/pandas-memory-optimization-6ca1b7cef02f) in which we discussed this phenomenon in greater depth. Avid users are encouraged to read the article.
+
+### Data Analysis
+
+We conducted various levels of data analysis based on the performance of different types of shortages in relation to their medians.
+Because the shortage data is highly skewed, using the median as an inflection point provides us with information about the actual conditions on a more generalized basis.
+
 ### Facility Level
 
 #### Key Takeaways:
